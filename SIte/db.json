@@ -1,0 +1,267 @@
+{
+  "contas": [
+    {
+      "id": 1,
+      "username": "2210831",
+      "password": "123",
+      "nome": "Luca"
+    },
+    {
+      "id": 2,
+      "username": "3310831",
+      "password": "12345",
+      "nome": "Vilella"
+    },
+    {
+      "id": 3,
+      "username": "4410831",
+      "password": "12345",
+      "nome": "Gabriela"
+    },
+    {
+      "id": 3,
+      "username": "5510831",
+      "password": "12345",
+      "nome": "João Gabriel"
+    },
+    {
+      "username": "1234567",
+      "password": "123Luca",
+      "nome": "Luca",
+      "id": 4
+    }
+  ],
+  "restaurantes": [
+    {
+      "nome": "Good Burger",
+      "faixa-valores": "Café: 3-9 Hambúrguer: 7-25",
+      "horario": "6h-18h",
+      "horario-pico": "7h, 9h, 12h-13h",
+      "dentro-fora": "Fora",
+      "localizacao": "Barraquinha",
+      "tipo-comida": "Refeição/Café da Manhã",
+      "tipo-espec": "Hamburguer",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Barraquinha Quentinha",
+      "faixa-valores": "12-16",
+      "horario": "11h-13h40",
+      "horario-pico": "12h45-13h20",
+      "dentro-fora": "Fora",
+      "localizacao": "Barraquinha",
+      "tipo-comida": "Refeição",
+      "tipo-espec": "Quentinha",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Barraquinha Strogonoff",
+      "faixa-valores": "13-15",
+      "horario": "11h-13h30",
+      "horario-pico": "12h45-13h20",
+      "dentro-fora": "Fora",
+      "localizacao": "Barraquinha",
+      "tipo-comida": "Refeição",
+      "tipo-espec": "Strogonoff",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix, VR"
+    },
+    {
+      "nome": "Yakidê (Barraquinha)",
+      "faixa-valores": "13-28",
+      "horario": "10h-19h (Sexta até 15h)",
+      "horario-pico": "12h-14h",
+      "dentro-fora": "Fora",
+      "localizacao": "Barraquinha",
+      "tipo-comida": "Refeição",
+      "tipo-espec": "Japonês",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Barraquinha Wrap",
+      "faixa-valores": "18-25",
+      "horario": "11h-19h",
+      "horario-pico": "12h-14h",
+      "dentro-fora": "Fora",
+      "localizacao": "Barraquinha",
+      "tipo-comida": "Lanches/Refeição",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Barraquinha de salgados",
+      "faixa-valores": "7-13",
+      "horario": "5h30-8h",
+      "horario-pico": "9h-13h",
+      "dentro-fora": "Fora",
+      "localizacao": "Barraquinha",
+      "tipo-comida": "Lanches",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Nei Mate",
+      "faixa-valores": "5-13",
+      "horario": "8h30-17h50",
+      "horario-pico": "Não tem",
+      "dentro-fora": "Fora",
+      "localizacao": "Barraquinha",
+      "tipo-comida": "Mate",
+      "tipo-espec": "Mate",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Japonês Leme",
+      "faixa-valores": "26-52",
+      "horario": "6h-21h",
+      "horario-pico": "12h-14h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Leme",
+      "tipo-comida": "Refeição",
+      "tipo-espec": "Japonês",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix, VR"
+    },
+    {
+      "nome": "LeMax Hamburgueria",
+      "faixa-valores": "22-54",
+      "horario": "10h-22h",
+      "horario-pico": "12h-14h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Leme",
+      "tipo-comida": "Refeição/Lanches",
+      "tipo-espec": "Hamburguer",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Bar das Freiras",
+      "faixa-valores": "7-40",
+      "horario": "7h-16h",
+      "horario-pico": "12h-14h (almoço)",
+      "dentro-fora": "Dentro",
+      "localizacao": "Leme",
+      "tipo-comida": "Lanches/Refeição",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito"
+    },
+    {
+      "nome": "Rei do Mate",
+      "faixa-valores": "5-20",
+      "horario": "6h30-21h",
+      "horario-pico": "9h-10h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Leme",
+      "tipo-comida": "Lanches",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix, VR"
+    },
+    {
+      "nome": "Geneal",
+      "faixa-valores": "5-30",
+      "horario": "7h15-21h",
+      "horario-pico": "11h-13h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Leme",
+      "tipo-comida": "Lanches",
+      "tipo-espec": "Cachorro quente",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "MegaMatte",
+      "faixa-valores": "6-30",
+      "horario": "6h-21h30",
+      "horario-pico": "8h30, 10h30, 12h30",
+      "dentro-fora": "Dentro",
+      "localizacao": "Leme",
+      "tipo-comida": "Lanches",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "California Coffee",
+      "faixa-valores": "10-30",
+      "horario": "7h30-21h30",
+      "horario-pico": "9h-11h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Leme",
+      "tipo-comida": "Lanches/Café",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix, VR"
+    },
+    {
+      "nome": "Couve Flor",
+      "faixa-valores": "89,89 (Kg)",
+      "horario": "11h-15h",
+      "horario-pico": "12h30-13h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Próximo ao LABGRAD",
+      "tipo-comida": "Refeição",
+      "tipo-espec": "Comida a quilo",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Kitchen Cafe",
+      "faixa-valores": "9-40",
+      "horario": "8h-20h",
+      "horario-pico": "12h-14h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Próximo à Igreja",
+      "tipo-comida": "Lanches/Refeição",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Japaway/Fastway",
+      "faixa-valores": "18-58",
+      "horario": "6h-23h",
+      "horario-pico": "11h-13h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Kennedy",
+      "tipo-comida": "Refeição/Lanches",
+      "tipo-espec": "Japonês",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    },
+    {
+      "nome": "Bandejão",
+      "faixa-valores": "6 ou 12",
+      "horario": "6h30-8, 11h-14h, 15h-17h, 18h30-21h",
+      "horario-pico": "11h-14h30",
+      "dentro-fora": "Dentro",
+      "localizacao": "Kennedy",
+      "tipo-comida": "Lanches/Refeição",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix, Alelo, ticket"
+    },
+    {
+      "nome": "Lanchonete Kennedy",
+      "faixa-valores": "10-45",
+      "horario": "8h-22h",
+      "horario-pico": "12h-14h",
+      "dentro-fora": "Dentro",
+      "localizacao": "Kennedy",
+      "tipo-comida": "Lanches/Refeição",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix, VR"
+    },
+    {
+      "nome": "Lanchonete AfPUC",
+      "faixa-valores": "5-10",
+      "horario": "5h40-22h40",
+      "horario-pico": "7h-8h",
+      "dentro-fora": "Dentro",
+      "localizacao": "CCE",
+      "tipo-comida": "Café da manhã/Lanches",
+      "tipo-espec": "-",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix, VR"
+    },
+    {
+      "nome": "Oakberry",
+      "faixa-valores": "17-34",
+      "horario": "8h-21h",
+      "horario-pico": "13h30",
+      "dentro-fora": "Dentro",
+      "localizacao": "CCE",
+      "tipo-comida": "Lanches",
+      "tipo-espec": "Açaí",
+      "meio-pagamento": "Débito, crédito, dinheiro, Pix"
+    }
+  ]
+}
