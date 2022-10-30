@@ -6,18 +6,7 @@ const ccBotao = document.getElementById("criarConta")
 
 
 ccBotao.addEventListener('click', () => {
-    const Conta = document.getElementById("username").value
-    const Senha = document.getElementById("password").value
-    fetch("http://localhost:3000/contas", {
-        method: 'POST', // or 'PUT'
-        headers:{'Content-Type':'application/json'},
-        body: JSON.stringify({
-            "username": Conta,
-            "password": Senha
-        })
-    }).then((response) => response.json()).then((data) => {
-        console.log(data)
-    })
+    location. href="register.html"
 })
 
 loBotao.addEventListener('click', () => {
