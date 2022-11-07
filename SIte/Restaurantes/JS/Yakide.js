@@ -7,10 +7,10 @@
 
 //É só ver no json qual o id do restaurante e trocar no lugar do 0
 fetch("http://localhost:3000/restaurantes",).then((response) => response.json()).then((data) => {
-    document.getElementById("nome").innerHTML += (data[1].nome)
-    document.getElementById("horarios").innerHTML += (data[1].horario)
-    document.getElementById("loc").innerHTML += (data[1].localizacao)
-    document.getElementById("comida").innerHTML += (data[1].tipoEspec)
+    document.getElementById("nome").innerHTML += (data[3].nome)
+    document.getElementById("horarios").innerHTML += (data[3].horario)
+    document.getElementById("loc").innerHTML += (data[3].localizacao)
+    document.getElementById("comida").innerHTML += (data[3].tipoEspec)
     /* document.getElementById("preco").innerHTML += (data[0].faixaValores) */
     
 })
@@ -34,7 +34,7 @@ function Avaliar(estrela) {
     var url = window.location;
     url = url.toString()
     //Trocar caminho da imagem para o restaurante atual
-    url = url.split("BarraquinhaQuentinha.html");
+    url = url.split("goodBurger.html");
     url = url[0];
    
     var s1 = document.getElementById("s1").src;
@@ -138,7 +138,7 @@ function Avaliar(estrela) {
    }
 
    //Trocar o caminho para o restaurante 
-   const api_url = "http://localhost:3000/BarraquinhaQuentinha"
+   const api_url = "http://localhost:3000/Yakide"
 
 
 
@@ -186,7 +186,7 @@ function Avaliar(estrela) {
    botao.addEventListener('click', () => {
        const data = document.getElementById("comentario").value
         //Trocar o caminho para o restaurante
-       fetch("http://localhost:3000/BarraquinhaQuentinha", {
+       fetch("http://localhost:3000/Yakide", {
            method: 'POST', // or 'PUT'
            headers:{'Content-Type':'application/json'},
            body: JSON.stringify({
