@@ -84,7 +84,7 @@
       "dentro-fora": "Fora",
       "localizacao": "Barraquinha",
       "tipo-comida": "Lanches/Refeição",
-      "tipoEspec": "-",
+      "tipoEspec": "Lanche",
       "meio-pagamento": "Débito, crédito, dinheiro, Pix"
     },
     {
@@ -95,7 +95,7 @@
       "dentro-fora": "Fora",
       "localizacao": "Barraquinha",
       "tipo-comida": "Lanches",
-      "tipoEspec": "-",
+      "tipoEspec": "Lanche",
       "meio-pagamento": "Débito, crédito, dinheiro, Pix"
     },
     {
@@ -139,7 +139,7 @@
       "dentro-fora": "Dentro",
       "localizacao": "Leme",
       "tipo-comida": "Lanches/Refeição",
-      "tipoEspec": "-",
+      "tipoEspec": "Comida a quilo",
       "meio-pagamento": "Débito"
     },
     {
@@ -150,7 +150,7 @@
       "dentro-fora": "Dentro",
       "localizacao": "Leme",
       "tipo-comida": "Lanches",
-      "tipoEspec": "-",
+      "tipoEspec": "Lanche",
       "meio-pagamento": "Débito, crédito, dinheiro, Pix, VR"
     },
     {
@@ -172,7 +172,7 @@
       "dentro-fora": "Dentro",
       "localizacao": "Leme",
       "tipo-comida": "Lanches",
-      "tipoEspec": "-",
+      "tipoEspec": "Lanche",
       "meio-pagamento": "Débito, crédito, dinheiro, Pix"
     },
     {
@@ -183,7 +183,7 @@
       "dentro-fora": "Dentro",
       "localizacao": "Leme",
       "tipo-comida": "Lanches/Café",
-      "tipoEspec": "-",
+      "tipoEspec": "Café e Lanches",
       "meio-pagamento": "Débito, crédito, dinheiro, Pix, VR"
     },
     {
@@ -205,7 +205,7 @@
       "dentro-fora": "Dentro",
       "localizacao": "Próximo à Igreja",
       "tipo-comida": "Lanches/Refeição",
-      "tipoEspec": "-",
+      "tipoEspec": "Café e Lanches",
       "meio-pagamento": "Débito, crédito, dinheiro, Pix"
     },
     {
@@ -227,7 +227,7 @@
       "dentro-fora": "Dentro",
       "localizacao": "Kennedy",
       "tipo-comida": "Lanches/Refeição",
-      "tipoEspec": "-",
+      "tipoEspec": "Refeição",
       "meio-pagamento": "Débito, crédito, dinheiro, Pix, Alelo, ticket"
     },
     {
